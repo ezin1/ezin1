@@ -21,6 +21,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![TailwindCS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
