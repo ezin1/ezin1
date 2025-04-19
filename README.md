@@ -5,7 +5,7 @@
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 - 👨🏻‍💻 &nbsp; Sou desenvolvedor com 3 anos de experiência, tendo atuado por um ano como Desenvolvedor Back-End Júnior na Virtex Telecom e atualmente exercendo o cargo de Analista de Sistemas. Sou estudante do último período do curso de Análise e Desenvolvimento de Sistemas no IFPI.
 - 📈 &nbsp; Ao longo da minha trajetória, desenvolvi habilidades em tecnologias como JavaScript, TypeScript, Node.js, React.js, Next.js e PostgreSQL. Busco constantemente aprimorar meus conhecimentos por meio de projetos pessoais e cursos, com o objetivo de me tornar um desenvolvedor Full Stack ainda mais capacitado.
